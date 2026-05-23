@@ -31,16 +31,16 @@ https://silver-elf-47cb18.netlify.app
 ![Default](MyFiles/Default.png)
 
 ### Sunny Weather
-![Sunny](MyFiles/Sunny.png)
+![Sunny](Sunny.png)
 
 ### Cloudy Weather
-![Cloudy](MyFiles/Cloudy.png)
+![Cloudy](Cloudy.png)
 
 ### Cloudy Extra
-![Cloudy 2](MyFiles/Cloudy2.png)
+![Cloudy 2](Cloudy2.png)
 
 ### Haze Weather
-![Haze](MyFiles/Haze.png)
+![Haze](Haze.png)
 
 ---
 
