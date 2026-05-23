@@ -27,17 +27,20 @@ https://silver-elf-47cb18.netlify.app
 ---
 ##  Screenshots
 
-### Home Screen
-![Home](screenshots/home.png)
+### Default Weather
+![Default](MyFiles/Default.png)
 
 ### Sunny Weather
-![Sunny](screenshots/sunny.png)
+![Sunny](MyFiles/Sunny.png)
 
 ### Cloudy Weather
-![Cloudy](screenshots/cloudy.png)
+![Cloudy](MyFiles/Cloudy.png)
 
-### Rainy Weather
-![Rainy](screenshots/rainy.png)
+### Cloudy Extra
+![Cloudy 2](MyFiles/Cloudy2.png)
+
+### Haze Weather
+![Haze](MyFiles/Haze.png)
 
 ---
 
