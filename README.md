@@ -28,19 +28,19 @@ https://silver-elf-47cb18.netlify.app
 ##  Screenshots
 
 ### Default Weather
-![Default](MyFiles/Default.png)
+![Default](https://github.com/naikpayal01/weather-app/blob/main/default.png)
 
 ### Sunny Weather
-![Sunny](Sunny.png)
+![Sunny](https://github.com/naikpayal01/weather-app/blob/main/sunny.png)
 
 ### Cloudy Weather
-![Cloudy](Cloudy.png)
+![Cloudy](https://github.com/naikpayal01/weather-app/blob/main/cloudy.png)
 
 ### Cloudy Extra
-![Cloudy 2](Cloudy2.png)
+![Cloudy 2](https://github.com/naikpayal01/weather-app/blob/main/cloudy2.png)
 
 ### Haze Weather
-![Haze](Haze.png)
+![Haze](https://github.com/naikpayal01/weather-app/blob/main/haze.png)
 
 ---
 
