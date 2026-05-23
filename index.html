@@ -15,13 +15,13 @@
 
     <div class="container">
 
-        <h1>🌤 skycast</h1>
+        <h1>🌤 SkyCast Weather</h1>
 
         <div class="search-box">
 
             <input type="text"
-            id="cityInput"
-            placeholder="Enter city name">
+                id="cityInput"
+                placeholder="Enter city or place name (e.g., Goa, Mumbai, Delhi)">
 
             <button id="searchBtn">Search</button>
 
@@ -31,11 +31,12 @@
 
         <div class="weather-box">
 
-            <h2 id="cityName">"Enter city or place name </h2>
+            <!-- Default text before search -->
+            <h2 id="cityName">Search Weather</h2>
 
             <p id="dateTime"></p>
 
-            <img id="weatherIcon" src="" alt="">
+            <img id="weatherIcon" src="" alt="Weather Icon">
 
             <h1 id="temperature">--°C</h1>
 
@@ -45,12 +46,12 @@
 
                 <div class="card">
                     <h3>Humidity</h3>
-                    <p id="humidity">--</p>
+                    <p id="humidity">--%</p>
                 </div>
 
                 <div class="card">
-                    <h3>Wind</h3>
-                    <p id="wind">--</p>
+                    <h3>Wind Speed</h3>
+                    <p id="wind">-- km/h</p>
                 </div>
 
             </div>
