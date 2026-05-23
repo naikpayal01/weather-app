@@ -4,10 +4,9 @@ A simple and responsive weather web application built using **HTML, CSS, and Jav
 
 ---
 
-##  Live Demo
-https://silver-elf-47cb18.netlify.app
 
----
+
+
 
 ## Features
 - Search weather by city name
